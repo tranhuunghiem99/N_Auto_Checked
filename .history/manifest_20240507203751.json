@@ -1,0 +1,18 @@
+{
+  "name": "Nghiem Auto Click Radiobuttons",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Automatically click all even radiobuttons on the current webpage",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "permissions": ["activeTab",],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["contentScript.js"],
+      "run_at": "document_end"
+    }
+  ]
+}

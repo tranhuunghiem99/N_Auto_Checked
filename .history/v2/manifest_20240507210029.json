@@ -1,0 +1,22 @@
+
+{
+  "name": "NghiemAuto Click Radiobutton and Select Option",
+  "version": "1.0.3",
+  "manifest_version": 2,
+  "description": "Automatically click all radiobuttons at odd positions and select all options with name 'ok' on the current webpage. Requires user to click the extension's popup to activate.",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["contentScript.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "browser_action": {
+    "default_popup": "popup.html"
+  }
+}

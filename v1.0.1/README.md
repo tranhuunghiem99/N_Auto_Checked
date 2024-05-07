@@ -1,0 +1,20 @@
+# N_Acheck
+
+> Xin chào!
+> Lại là tôi đây. CHÀO MỪNG BẠN ĐÃ ĐẾN VỚI TIỆN ÍCH MÀ NÓ MANG CẢM GIÁC ĐEN TỐI NHƯ CUỘC ĐỜI CỦA BẠN VẬY.
+> 
+
+
+
+Không dài dòng nữa, cùng trải nghiệm nào 😁 ;:")) ༼ つ ◕_◕ ༽つ 
+
+
+## Meta
+
+THNghiem                                            x                                      Ca_THN_Studios 
+
+Distributed under the N_Acheck license. See ``LICENSE`` for more information.
+
+[https://github.com/tranhuunghiem99/](https://github.com/tranhuunghiem99)
+
+
